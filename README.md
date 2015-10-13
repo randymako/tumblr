@@ -9,7 +9,7 @@ Coming Soon: Working on optionals
 
 -----------------------
 
-Hours: ~12
+Hours: ~14
 
 Completed Stories:
   1. Setup
@@ -17,6 +17,10 @@ Completed Stories:
   3. Compose button moddaly presents the compose screen
 
 Optional Stories: 
-  - Hovering Explore Bubble
+  - Hovering explore button
+  - Explore loading and fade in feed
+  - Bounce scrollViews
   
 ---------------
+
+![tumblr](https://cloud.githubusercontent.com/assets/12131281/10449804/c0ee5184-714a-11e5-8555-81fa44332fa4.gif)
