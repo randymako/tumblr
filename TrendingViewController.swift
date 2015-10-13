@@ -10,15 +10,12 @@ import UIKit
 
 class TrendingViewController: UIViewController {
 
-    @IBOutlet weak var feedImage: UIImageView!
-    @IBOutlet weak var feedScrollView: UIScrollView!
     
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
-        feedScrollView.contentSize = feedImage.image!.size
-        
+
     }
 
     override func didReceiveMemoryWarning() {
